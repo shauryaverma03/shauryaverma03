@@ -1,3 +1,5 @@
+![logo](https://github.com/shauryaverma03/shauryaverma03/blob/main/Banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Shaurya Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
