@@ -26,4 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&" alt="shauryaverma03" /></p>
 
 
-![Snake Game](https://github.com/shauryaverma03/shauryaverma03/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
