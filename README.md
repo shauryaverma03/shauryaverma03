@@ -28,4 +28,5 @@
 
 <p align="center">
   <img src="https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+  
 </p>
