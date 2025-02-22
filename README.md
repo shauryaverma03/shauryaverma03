@@ -1,37 +1,31 @@
-<!--
-**shauryaverma03/shauryaverma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hey There, I'm Shaurya Verma! 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+AI+%7C+Data+Science;Building+Cool+Projects!;Follow+for+Tech+%26+Coding+Stuff!">
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=shaurya123&color=green)
+
 ---
 
 ### 🚀 About Me:
-- 🎓 B.Tech CSE @ Lovely Professional University
-- 🌱 Learning **AI, Data Science, and Web Development**
-- 🚀 Building **AI-powered projects**
-- 📢 **Follow me for crazy tech content!**
+- 🎓 B.Tech CSE @ Lovely Professional University  
+- 🌱 Learning **AI, Data Science, and Web Development**  
+- 🚀 Building **AI-powered projects**  
+- 📢 **Follow me for crazy tech content!**  
 
 ---
 
 ### 🛠 Tech Stack:
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,html,css,react,github,linux,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,html,css,react,nodejs,express,github,linux,cpp,java,mysql,mongodb,git" />
+</p>
+
+---
+
+### 📚 Tech & Tools I'm Learning:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,kubernetes,docker,fastapi,nextjs" />
 </p>
 
 ---
@@ -43,16 +37,16 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔥 Streak Stats:
+### 🏆 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya123&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya123&layout=compact&theme=radical">
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaurya123&theme=darkhub&no-bg=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya123&theme=dark">
 </p>
 
 ---
@@ -78,6 +72,6 @@ Here are some ideas to get you started:
 
 ---
 
-This README has **everything—tech, AI, animations, and fun elements!** 🚀  
+🔥 **Now your GitHub README is fully packed with animations, stats, and learning progress!** 🚀  
 
-Want any modifications? Let me know! 🔥
+Let me know if you need any more changes! 😊
