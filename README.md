@@ -84,9 +84,9 @@
 ---
 
 ### 🐍 Snake Game (Your Contributions):
-<p align="center">
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-</p>
+
+  ![snake gif](https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg)
+
 
 ---
 
@@ -103,3 +103,5 @@
 </p>
 
 ---
+
+
