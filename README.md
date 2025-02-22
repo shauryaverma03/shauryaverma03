@@ -101,19 +101,8 @@
 
 👨‍💻 **Connect with Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/shauryaverma)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/shaurya)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/shaurya)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-MySite-green)](https://shauryaverma03.github.io)  
+ 
 
 ---
-
-🔥 **Now your GitHub README is updated with fixed links, pinned projects, and profile optimizations!** 🚀  
-
----
-
-### **🔹 Next Steps for You:**
-1. **Go to your GitHub profile → Edit Profile → Update Bio:**  
-   ➝ `"B.Tech CSE | AI & Data Science Enthusiast | Open Source Contributor"`  
-2. **Pin the 3 projects manually on GitHub** (Go to "Repositories" → Click on **Pin**).  
-3. **Update repository descriptions** for better visibility.  
-
-Done! 🚀 Now, your profile is **optimized and professional.** 🎯 Let me know if you need more changes! 😃🔥
