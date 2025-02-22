@@ -52,39 +52,29 @@
 
 ---
 
-### 📚 Tech & Tools I'm Learning:
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaurya123&show_icons=true&theme=radical">
 </p>
 
----
-
-### 🏆 Most Used Languages:
-**(If the section is empty, try adding more code in public repositories!)**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya123&langs_count=8&layout=compact&theme=radical">
 </p>
 
----
-
-### 🔥 Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya123&theme=dark">
 </p>
 
 ---
 
-### 🐍 Snake Game (Your Contributions):
+### 🏆 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaurya123&theme=github">
+</p>
+
+---
+
+### 🐍 Contribution Snake:
 <p align="center">
   <img src="https://raw.githubusercontent.com/shaurya123/shaurya123/output/github-contribution-grid-snake.svg">
 </p>
@@ -96,8 +86,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/shaurya)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-MySite-green)](https://shaurya123.github.io)  
 
----
-
-🔥 **Now your GitHub README is clean, optimized, and fully packed!** 🚀  
-
-Let me know if you need more edits! 😊  
+🔥 **Now your GitHub README is optimized, clean, and fully packed!** 🚀
