@@ -13,10 +13,12 @@
 ---
 
 ### 🚀 About Me:
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  
 - 🎓 B.Tech CSE @ Lovely Professional University  
 - 🌱 Learning **AI, Data Science, and Web Development**  
 - 🚀 Building **AI-powered projects**  
-- 📢 **Follow me for crazy tech content!** <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px">
+- 📢 **Follow me for crazy tech content!**  
 
 ---
 
