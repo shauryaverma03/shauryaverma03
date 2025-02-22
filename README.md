@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shauryaverma03/shauryaverma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hey There, I'm Shaurya Verma! 🚀</h1>
 
 <p align="center">
