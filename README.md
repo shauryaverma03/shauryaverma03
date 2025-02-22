@@ -22,15 +22,6 @@
 
 ---
 
-### 📌 Pinned Projects:
-🔹 **[AI Mental Health Chatbot](https://github.com/shauryaverma03/ai-mental-health-chatbot)** - OpenAI-powered chatbot for emotional support  
-🔹 **[Web-Based Data Science Dashboard](https://github.com/shauryaverma03/data-science-dashboard)** - Interactive visualizations for ML models  
-🔹 **[Machine Learning API](https://github.com/shauryaverma03/ml-api)** - Flask API for ML model deployment  
-
-*(Go to your GitHub profile → Repositories → Click "Pin" on these projects!)*
-
----
-
 ### 🛠 Tech Stack:
 #### **🚀 Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
