@@ -80,18 +80,18 @@ jobs:
 
       # Step 3: Deploy the generated files to the 'output' branch
 
-      - name: Deploy to Output Branch
 
-        uses: peaceiris/actions-gh-pages@v3
+          - name: Deploy to Output Branch
+          
+          uses: peaceiris/actions-gh-pages@v3
+          
+          with:
+          
+            github_token: ${{ secrets.GH_PAT }}  # Use Personal Access Token instead of GITHUB_TOKEN
+            
+            publish_dir: ./dist
+            
+            publish_branch: output
+            
+            commit_message: "Update snake animation [skip ci]"
 
-        with:
-
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
