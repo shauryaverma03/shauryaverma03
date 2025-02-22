@@ -70,8 +70,9 @@
 ---
 
 ### 🏆 Most Used Languages:
+**(If the section is empty, try adding more code in public repositories!)**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya123&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya123&langs_count=8&layout=compact&theme=radical">
 </p>
 
 ---
@@ -79,13 +80,6 @@
 ### 🔥 Streak Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya123&theme=dark">
-</p>
-
----
-
-### 🎮 Fun Fact:  
-<p align="center">
-  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="400">
 </p>
 
 ---
@@ -104,6 +98,6 @@
 
 ---
 
-🔥 **Now your GitHub README is fully loaded with GIFs, animations, and an engaging look!** 🚀  
+🔥 **Now your GitHub README is clean, optimized, and fully packed!** 🚀  
 
-Let me know if you need any more tweaks! 😊
+Let me know if you need more edits! 😊  
