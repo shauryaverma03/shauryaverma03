@@ -72,21 +72,21 @@
 ### 🏆 Most Used Languages:
 **(If the section is empty, try adding more code in public repositories!)**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya123&langs_count=8&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&langs_count=8&layout=compact&theme=radical">
 </p>
 
 ---
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya123&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=dark">
 </p>
 
 ---
 
 ### 🐍 Snake Game (Your Contributions):
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shaurya123/shaurya123/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
