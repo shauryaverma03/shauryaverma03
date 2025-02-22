@@ -1,6 +1,10 @@
 <h1 align="center">Hey There, I'm Shaurya Verma! 🚀</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+AI+%7C+Data+Science;Building+Cool+Projects!;Follow+for+Tech+%26+Coding+Stuff!">
 </p>
 
@@ -14,32 +18,34 @@
 - 🚀 Building **AI-powered projects**  
 - 📢 **Follow me for crazy tech content!**  
 
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 
 ### 🛠 Tech Stack:
-#### **Programming Languages:**  
+#### **🚀 Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-#### **Web Development:**  
+#### **🌐 Web Development:**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### **Databases:**  
+#### **💾 Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### **AI & Machine Learning:**  
+#### **🤖 AI & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### **Other Tools & Platforms:**  
+#### **🔧 Other Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -79,7 +85,7 @@
 
 ### 🎮 Fun Fact:  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="400">
 </p>
 
 ---
@@ -98,6 +104,6 @@
 
 ---
 
-🔥 **Now your GitHub README is fully optimized, visually appealing, and easy to understand!** 🚀  
+🔥 **Now your GitHub README is fully loaded with GIFs, animations, and an engaging look!** 🚀  
 
-Let me know if you need any more changes! 😊
+Let me know if you need any more tweaks! 😊
