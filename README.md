@@ -100,9 +100,17 @@
 ---
 
 👨‍💻 **Connect with Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/shauryaverma)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/shaurya)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-MySite-green)](https://shauryaverma03.github.io)  
+
+<p align="left">
+  <a href="https://linkedin.com/in/shauryaverma">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/shaurya">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px">
+  </a>
+</p>
+
  
 
 ---
