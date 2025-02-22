@@ -102,7 +102,7 @@
 👨‍💻 **Connect with Me:**  
 
 <p align="left">
-  <a href="www.linkedin.com/in/shaurya47">
+  <a href="https://www.linkedin.com/in/shaurya47/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px">
   </a>
   &nbsp;&nbsp;
