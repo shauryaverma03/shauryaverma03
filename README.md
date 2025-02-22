@@ -85,7 +85,7 @@
 
 ### 🐍 Snake Game (Your Contributions):
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-contribution-grid-snake.svg">
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </p>
 
 ---
