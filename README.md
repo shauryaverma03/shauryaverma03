@@ -97,8 +97,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-MySite-green)](https://shaurya123.github.io)  
 
 ---
-
-🔥 **Now your GitHub README is clean, optimized, and fully packed!** 🚀  
-
-Let me know if you need more edits! 😊  
-
