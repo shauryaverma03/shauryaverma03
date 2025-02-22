@@ -102,11 +102,11 @@
 👨‍💻 **Connect with Me:**  
 
 <p align="left">
-  <a href="https://linkedin.com/in/shauryaverma">
+  <a href="www.linkedin.com/in/shaurya47">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px">
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/shaurya">
+  <a href="https://www.instagram.com/shaurya_verma03/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px">
   </a>
 </p>
