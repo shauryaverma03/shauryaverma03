@@ -22,6 +22,15 @@
 
 ---
 
+### 📌 Pinned Projects:
+🔹 **[AI Mental Health Chatbot](https://github.com/shauryaverma03/ai-mental-health-chatbot)** - OpenAI-powered chatbot for emotional support  
+🔹 **[Web-Based Data Science Dashboard](https://github.com/shauryaverma03/data-science-dashboard)** - Interactive visualizations for ML models  
+🔹 **[Machine Learning API](https://github.com/shauryaverma03/ml-api)** - Flask API for ML model deployment  
+
+*(Go to your GitHub profile → Repositories → Click "Pin" on these projects!)*
+
+---
+
 ### 🛠 Tech Stack:
 #### **🚀 Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +79,6 @@
 ---
 
 ### 🏆 Most Used Languages:
-**(If the section is empty, try adding more code in public repositories!)**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&langs_count=8&layout=compact&theme=radical">
 </p>
@@ -94,6 +102,18 @@
 👨‍💻 **Connect with Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/shauryaverma)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/shaurya)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-MySite-green)](https://shaurya123.github.io)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-MySite-green)](https://shauryaverma03.github.io)  
 
 ---
+
+🔥 **Now your GitHub README is updated with fixed links, pinned projects, and profile optimizations!** 🚀  
+
+---
+
+### **🔹 Next Steps for You:**
+1. **Go to your GitHub profile → Edit Profile → Update Bio:**  
+   ➝ `"B.Tech CSE | AI & Data Science Enthusiast | Open Source Contributor"`  
+2. **Pin the 3 projects manually on GitHub** (Go to "Repositories" → Click on **Pin**).  
+3. **Update repository descriptions** for better visibility.  
+
+Done! 🚀 Now, your profile is **optimized and professional.** 🎯 Let me know if you need more changes! 😃🔥
