@@ -4,7 +4,7 @@
   
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+AI+%7C+Data+Science;Building+Cool+Projects!;Follow+for+Tech+%26+Coding+Stuff!">
 </p>
 
