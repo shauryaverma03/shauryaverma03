@@ -105,5 +105,5 @@
 ---
 
 ## ☕ Support Me
-If you like my work, you can support me by buying me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-yellow?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/shauryaverh)
+If you enjoy my work, consider buying me a coffee!
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/YOUR_USERNAME)
