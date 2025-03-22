@@ -104,6 +104,12 @@
 
 ---
 
-## ☕ Support Me
-If you enjoy my work, consider buying me a coffee!
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/YOUR_USERNAME)
+## ☕ Support Me  
+
+If you enjoy my work, consider buying me a coffee! Your support keeps me going.  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
+  </a>
+</p>
