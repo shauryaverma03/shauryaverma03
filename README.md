@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shaurya Verma! 🚀</h1>
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Shaurya Verma!  🚀</h1>
 
 <p align="center">
   
@@ -33,7 +33,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### **💾 Databases:**  
@@ -43,7 +43,7 @@
 #### **🤖 AI & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458? style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### **🔧 Other Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,59 +52,54 @@
 
 ---
 
-### 📚 Tech & Tools I'm Learning: 
+### 📚 Tech & Tools I'm Learning:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next. js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api? username=shauryaverma03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
-### 🏆 Most Used Languages: 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-### 🔥 Streak Stats:
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shauryaverma03&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+### 🏆 Most Used Languages:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
 ### 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=shauryaverma03&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 ### 🐍 Snake Game (Your Contributions):
 
 <p align="center">
-  <img src="https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg">
+  <img src="https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg" alt="Snake Animation">
 </p>
+
 ---
 
-👨‍💻 **Connect with Me:**  
+### 👨‍💻 Connect with Me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shaurya47/">
@@ -118,12 +113,12 @@
 
 ---
 
-## ☕ Support Me  
+## ☕ Support Me
 
-If you enjoy my work, consider buying me a coffee! Your support keeps me going.  
+If you enjoy my work, consider buying me a coffee! Your support keeps me going.   
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/shauryaverh" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
+    <img src="https://cdn.buymeacoffee. com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="200">
   </a>
 </p>
