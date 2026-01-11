@@ -18,7 +18,7 @@
 - 🎓 B.Tech CSE @ Lovely Professional University  
 - 🌱 Learning **AI, Data Science, and Web Development**  
 - 🚀 Building **AI-powered projects**  
-- 📢 **Follow me for crazy tech content!**  
+- 📢 **Follow me for crazy tech content! **  
 
 ---
 
@@ -33,7 +33,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node. js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### **💾 Databases:**  
@@ -47,7 +47,7 @@
 
 #### **🔧 Other Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -62,39 +62,50 @@
 
 ---
 
-### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=shauryaverma03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</div>
+### 📊 GitHub Stats: 
 
----
-
-### 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 🏆 Most Used Languages:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
 
 ---
 
-### 📈 Contribution Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+### 🔥 Streak Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophy:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Contribution Activity:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=shauryaverma03&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ### 🐍 Snake Game (Your Contributions):
 
 <p align="center">
-  <img src="https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg" alt="Snake Animation">
+  <img src="https://github.com/shauryaverma03/shauryaverma03/blob/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -103,11 +114,11 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shaurya47/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40px" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/shaurya_verma03/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon. png" width="40px" alt="Instagram">
   </a>
 </p>
 
@@ -115,7 +126,7 @@
 
 ## ☕ Support Me
 
-If you enjoy my work, consider buying me a coffee! Your support keeps me going.   
+If you enjoy my work, consider buying me a coffee! Your support keeps me going. 
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/shauryaverh" target="_blank">
