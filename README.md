@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+AI+%7C+Data+Science;Building+Cool+Projects!;Follow+for+Tech+%26+Coding+Stuff!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-Stack+Dev+%7C+AI+%7C+Data+Science;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning+New+Tech! ">
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shauryaverma03&color=green)
 
 ---
 
-### 🚀 About Me:
+### 🚀 About Me: 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE @ Lovely Professional University  
@@ -43,7 +43,7 @@
 #### **🤖 AI & Machine Learning:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458? style=for-the-badge&logo=pandas&logoColor=white)
 
 #### **🔧 Other Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,33 +52,47 @@
 
 ---
 
-### 📚 Tech & Tools I'm Learning:
+### 📚 Tech & Tools I'm Learning: 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next. js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🏆 Most Used Languages:
+### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&langs_count=8&layout=compact&theme=radical">
+  <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🏆 Most Used Languages: 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&langs_count=8&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=shauryaverma03&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=shauryaverma03&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
