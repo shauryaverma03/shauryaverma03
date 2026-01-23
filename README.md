@@ -65,7 +65,7 @@
 ## 🐍 Contribution Snake (DO NOT MODIFY)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
