@@ -23,8 +23,24 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,nextjs,nodejs,tailwind,tensorflow,pytorch,sklearn,git,github,linux,vscode,postman,vercel,mongodb,mysql" />
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
+</p>
+
+### 📊 Data Science & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel" />
 </p>
 
 ---
@@ -59,12 +75,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=tokyonight&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=tokyonight&hide_border=false" height="170"/>
 </p>
 
 ---
@@ -74,7 +90,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/shauryaverma03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shauryaverma03" height="30" width="40" /></a>
 <a href="https://instagram.com/ShauryaInSync" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ShauryaInSync" height="30" width="40" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" /></a>
+<a href="mailto:shauryaverma03@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
