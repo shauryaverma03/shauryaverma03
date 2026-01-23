@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaurya Verma</h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;AI+%26+Full+Stack+Developer;Problem+Solver;Hackathon+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;AI+%26+Full+Stack+Developer;Problem+Solver;ShauryaInSync" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -10,15 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shauryaverma03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shauryaverma03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 My GitHub Trophy Room
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=tokyonight&no-bg=true&margin-w=4" alt="shauryaverma03" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=radical&no-bg=true" alt="shauryaverma03" />
+  </a>
 </p>
 
 ---
@@ -27,9 +29,9 @@
 
 - 🎓 **B.Tech CSE (2nd Year)** at **Lovely Professional University**
 - 📊 Focused on **Data Science, AI & Machine Learning**
-- 💡 Regular at **SIH, IdeationX** and major Hackathons
-- 🌱 Passionate about **Environmental Conservation & Automation**
-- 💻 Currently mastering **DSA** and scalable backend systems
+- 💡 Regular at **SIH, IdeationX**, and the **Odoo x Adani Hackathon**
+- 🌱 Worked on **Environmental Conservation & Automation**
+- 💻 Building projects like **Saathi** and **FinSight**
 
 ---
 
@@ -53,8 +55,8 @@
       <p>Highway vs Service Road movement detection using GNSS Trajectory analysis and ML-based map matching.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 Mental Health AI</h3>
-      <p>AI-powered emotional support bot with Twilio SMS integration and resource recommendation logic.</p>
+      <h3 align="center">🧠 Saathi: Mental Health AI</h3>
+      <p>A companion app featuring a Flutter frontend and Node.js backend for emotional support.</p>
     </td>
   </tr>
   <tr>
@@ -63,7 +65,7 @@
       <p>NLP-based resume parsing, skill extraction, and scoring for recruiters and candidates.</p>
     </td>
     <td width="50%">
-      <h3 align="center">📈 FinSight</h3>
+      <h3 align="center">📈 FinSight Dashboard</h3>
       <p>A comprehensive FinTech dashboard developed for real-time financial data visualization.</p>
     </td>
   </tr>
@@ -74,12 +76,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=transparent&title_color=0E75B6&text_color=ffffff&icon_color=0E75B6" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryaverma03&theme=transparent&stroke=0E75B6&fire=0E75B6&ring=0E75B6&currStreakLabel=0E75B6" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryaverma03&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
