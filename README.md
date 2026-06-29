@@ -111,17 +111,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shauryaverma03&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=shauryaverma03&theme=tokyonight&hide_border=true&border_radius=10" height="195"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shauryaverma03&theme=tokyonight" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&rank_icon=github" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shauryaverma03&theme=tokyonight" height="195"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shauryaverma03&theme=tokyonight&utcOffset=5.5" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true&area_color=0E75B6&radius=8" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauryaverma03&theme=tokyonight" width="100%" />
 </p>
 
 ---
