@@ -143,11 +143,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/shauryaverma03" target="_blank">
+  <a href="https://linkedin.com/in/shaurya47" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-shauryaverma03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/ShauryaInSync" target="_blank">
+  <a href="https://instagram.com/shaurya_verma03" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ShauryaInSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
