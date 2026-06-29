@@ -1,21 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Hey%20there!%20I%27m%20Shaurya%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shaurya%20Verma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Data%20Scientist&descAlignY=52&descSize=16" width="100%"/>
 </p>
 
-<h1 align="center">Shaurya Verma</h1>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=450&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+%26+Full+Stack+Developer+%F0%9F%A4%96;Hackathon+Enthusiast+%F0%9F%8F%86;Consistency+beats+talent+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
-</h3>
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shauryaverma03&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+with+AI+%26+LLMs+%F0%9F%A4%96;Full+Stack+%2B+Data+Science+%F0%9F%9A%80;B.Tech+CSE+3rd+Year+%40+LPU+%F0%9F%8E%93;252+day+GitHub+streak+%F0%9F%94%A5;Open+to+internships+%26+collabs+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shauryaverma03&label=Profile%20Views&color=0e75b6&style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LPU-B.Tech%20CSE%20%7C%202nd%20Year-0e75b6?style=flat-square" />
+  <img src="https://img.shields.io/badge/LPU-B.Tech%20CSE%20%7C%203rd%20Year-0e75b6?style=flat-square" />
 </p>
 
 <p align="center">
@@ -34,42 +32,21 @@
 
 ---
 
-## 🏆 GitHub Trophy Room
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shauryaverma03&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=7" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>🎓</td>
-    <td><strong>B.Tech CSE (2nd Year)</strong> at <strong>Lovely Professional University</strong></td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td>Focused on <strong>Data Science, AI & Machine Learning</strong></td>
-  </tr>
-  <tr>
-    <td>🤖</td>
-    <td>Building with <strong>LLMs, LangChain & Full Stack</strong> technologies</td>
-  </tr>
-  <tr>
-    <td>🏆</td>
-    <td>Hackathon participant — <strong>SIH · IdeationX · Odoo x Adani</strong></td>
-  </tr>
-  <tr>
-    <td>🚀</td>
-    <td>Currently building <strong>Saathi</strong> and <strong>FinSight</strong></td>
-  </tr>
-  <tr>
-    <td>💡</td>
-    <td><em>"Consistency beats talent — and I code every day to prove it."</em></td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+<br/>
+
+- 🎓 **B.Tech CSE (3rd Year)** at **Lovely Professional University**
+- 🤖 Building AI agents with **LangChain, LangGraph & LLMs**
+- 📊 Deep interest in **Data Science & Machine Learning**
+- 🏆 Hackathon veteran — **SIH · IdeationX · Odoo x Adani**
+- 🔥 **252-day** GitHub contribution streak & counting
+- 🚀 Currently shipping **Saathi** and **FinSight**
+- 💡 *Consistency beats talent — and I code every day to prove it.*
+
+<br clear="right"/>
 
 ---
 
@@ -134,17 +111,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=shauryaverma03&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=shauryaverma03&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryaverma03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryaverma03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&rank_icon=github" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true&area_color=0E75B6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauryaverma03&theme=tokyo-night&hide_border=true&area=true&area_color=0E75B6&radius=8" width="100%" />
 </p>
 
 ---
@@ -155,7 +132,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/shauryaverma03/shauryaverma03/output/github-snake-dark.svg" />
   </picture>
 </p>
 
@@ -165,15 +142,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shauryaverma03" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-shauryaverma03-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/ShauryaInSync" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-ShauryaInSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:shauryaverma03@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-shauryaverma03-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -188,5 +165,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
